@@ -1,0 +1,7 @@
+Restaurant: magura
+  Item: vat, Price: 20.00
+  Item: dal, Price: 5.00
+
+Restaurant: downtown
+  Item: pangash, Price: 60.00
+

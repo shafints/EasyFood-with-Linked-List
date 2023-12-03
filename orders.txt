@@ -1,0 +1,1 @@
+Restaurant: magura, Item: vat, Price: 10.00, Delivery Address: DISS, Payment Method: Nagad
